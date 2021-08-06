@@ -1,0 +1,21 @@
+com/br/myapplication/databinding/ActivityMainBinding.java
+ com.br.myapplication.databinding.ActivityMainBinding
+com/br/myapplication/SecondFragment.java
+ com.br.myapplication.SecondFragment
+ com.br.myapplication.SecondFragment$1
+com/br/myapplication/MainActivity.java
+ com.br.myapplication.MainActivity
+ com.br.myapplication.MainActivity$1
+com/br/myapplication/databinding/ContentMainBinding.java
+ com.br.myapplication.databinding.ContentMainBinding
+com/br/myapplication/databinding/FragmentFirstBinding.java
+ com.br.myapplication.databinding.FragmentFirstBinding
+com/br/myapplication/BuildConfig.java
+ com.br.myapplication.BuildConfig
+com/br/myapplication/databinding/FragmentSecondBinding.java
+ com.br.myapplication.databinding.FragmentSecondBinding
+com/br/myapplication/PushNotification.java
+ com.br.myapplication.PushNotification
+com/br/myapplication/FirstFragment.java
+ com.br.myapplication.FirstFragment
+ com.br.myapplication.FirstFragment$1
