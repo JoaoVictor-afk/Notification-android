@@ -1,5 +1,5 @@
 # Notification-android
-Notificação feitas pelo firebase para aplicativo feitos no android studio.
+Notificação feitas pelo firebase para aplicativo no android studio.
 
 ## Tecnologias
 <br>
